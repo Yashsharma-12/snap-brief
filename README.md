@@ -1,5 +1,6 @@
 SnapBrief — Smart AI Summarizer
 SnapBrief is a high-performance document intelligence platform that conquers information overload. Built with Next.js 15 and Google Gemini 2.5, it allows users to transform dense text, PDFs, and Word documents into instant, actionable intelligence.
+Link: https://snapbrief-phi.vercel.app/
 
 🚀 Features
 Multi-Format Support: Seamlessly extract text from PDFs, DOCX files, and raw text inputs.
